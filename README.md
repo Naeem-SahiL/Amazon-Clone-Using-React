@@ -3,3 +3,4 @@ Using react js, trying to clone amazon pages fornt end. Project is started but d
 
 
 # Output 
+![](https://github.com/Naeem-SahiL/Amazon-Clone-Using-React/blob/main/screencapture-localhost-3000-2022-02-26-02_24_41.png)
